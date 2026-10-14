@@ -1,6 +1,3 @@
-# econometrics-ps1
-Numerical verification and optimization for Econometrics I — Problem Set 1.
-
 # Econometrics I — Problem Set 1
 
 Supplementary Python calculations for the
